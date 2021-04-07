@@ -4,7 +4,7 @@ Question/need:
 
 * What is the framing question of your analysis, or the purpose of the model/system you plan to build?
 
-  Can I predict IMDb score of movies and tv shows?
+  Can I use linear regression model to predict IMDb score of movies and tv shows?
 
 * Who benefits from exploring this question or building this model/system?
 
