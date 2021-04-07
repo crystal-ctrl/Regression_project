@@ -18,7 +18,7 @@ Data Description:
 
 * What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
 
-  A sampe/unit would be an individual movie. I'm expecting to have about 4000+ datapoints and about 7-8 features from the critic's website, including year released, Ebert Review, MPAA(Motion picture rating), runtime, genre,  Distributer, Director, Actors, screenwriter, editor. I plan on obtaining additional features from secondary sources from IMDb review, Metascore, number of reviews, Movie Budget, Domestic Grosses, International Grosses, Worldwide Grosses, etc. 
+  A sampe/unit would be an individual movie. I'm expecting to have about 4000+ datapoints and about 7-8 features from the critic's website, including year released, Ebert Review, MPAA(Motion picture rating), runtime, genre,  Distributer, Director, Actors, screenwriter, editor. I plan on obtaining additional features from secondary sources such as Movie Budget, Domestic Grosses, International Grosses, Worldwide Grosses, etc. 
 
 * If modeling, what will you predict as your target?
 
