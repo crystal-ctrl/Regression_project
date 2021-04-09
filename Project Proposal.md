@@ -22,7 +22,7 @@ Data Description:
 
 * If modeling, what will you predict as your target?
 
-  Since we're doing linear regression modeling, my target is IMDb review score of a movie.
+  Since we're doing linear regression modeling, my target is Roger Ebert's score of a movie.
 
 Tools:
 
