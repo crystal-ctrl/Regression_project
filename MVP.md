@@ -14,6 +14,6 @@ The scores on the training set and testing set are close but low, which indicate
 
 The above model visualization depects the model plotted predicted rating against the actual data points. 
 
-This results suggested that this model loses some accuracy as Ebert rating decreases. It could definitely be improved.
+This result suggested that this model loses some accuracy as Ebert rating decreases. It could definitely be improved.
 
 I will continue with model refinement, tuning and selection to find the best performing model on validation.
