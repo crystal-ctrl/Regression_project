@@ -4,7 +4,7 @@ The goal of my project is to see if we can predict the film rating of the renown
 
 My baseline model has 9 features with p-values less than 0.05. The model has R2 value of 0.382, and the RMSE is 0.69, which is about more than a half star off the Ebert rating.
 
-![](https://github.com/crystal-ctrl/regression_project/blob/b5794a651863d492eb039ab6401cc1fa7cd2981a/Image/baseline_model_stats.png)
+![](https://github.com/crystal-ctrl/regression_project/blob/b11b2767d8ffb7472b052b03e54c6b8cbb620fff/Image/baseline_model_stats.png)
 
 
 
