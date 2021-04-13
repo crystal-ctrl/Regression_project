@@ -4,7 +4,7 @@ The goal of my project is to see if we can predict the film rating of the renown
 
 My baseline model has 9 features with p-values less than 0.05. The stats model has R2 of 0.941, which is unexpectedly good. However, the cross validation testing showed a average score of 0.38, and the RMSE is 0.7, which is about more than a half star off the Ebert rating.
 
-![](Image/baseline model stats.png)
+![](https://github.com/crystal-ctrl/regression_project/blob/b5794a651863d492eb039ab6401cc1fa7cd2981a/Image/baseline%20model%20stats.png)
 
 
 
