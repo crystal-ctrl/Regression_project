@@ -12,7 +12,7 @@ The scores on the training set and testing set are close but low, which indicate
 
 ![](/Image/baseline_comparison.png)
 
-The above model visualization depects the model plotted predicted rating against the actual data points. 
+The above model visualization depicts the model plotted predicted rating against the actual data points. 
 
 This result suggested that this model loses some accuracy as Ebert rating decreases. It could definitely be improved.
 
