@@ -63,4 +63,4 @@ After iterative process of model refinement, tuning, and selection on validation
 
 ## Communication
 
-Presentation slides
+[Presentation slides](Regression Presentation.pdf)
