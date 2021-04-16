@@ -63,4 +63,4 @@ After iterative process of model refinement, tuning, and selection on validation
 
 ## Communication
 
-[Presentation slides](Regression Presentation.pdf)
+[Presentation slides](https://github.com/crystal-ctrl/regression_project/blob/7930fc3565acdae6582775bec0114957639312e1/Regression%20Presentation.pdf)
