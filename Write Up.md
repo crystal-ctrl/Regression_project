@@ -4,7 +4,7 @@ Crystal Huang
 
 ## Abstract
 
-The goal of this project is to use linear regression model to predict the renowned late movie critic Roger Ebert's film rating if he were alive today. My primary and secondary datasets were obtained through webscraping process. Using numerical and categorical features, along with some feature engineering, I built some linear regression models. After multiple trials of 5-folds cross-validation test, modifying datasets, and more feature engineering, my final linear regression model with lasso regularization has R-squared value of 0.366 and mean absolute error of 0.55, which in layman's term, the prediction is off by 0.5 star. 
+The goal of this project is to use linear regression model to predict the renowned late movie critic Roger Ebert's film rating if he were alive today. My primary and secondary datasets were obtained through webscraping process. Using numerical and categorical features, along with some feature engineering, I built some linear regression models. After multiple trials of 5-folds cross-validation test, modifying datasets, and more feature engineering, my final linear regression model with lasso regularization has R-squared value of 0.396 and mean absolute error of 0.55, which in layman's term, the prediction is off by 0.5 star. 
 
 ## Design
 
@@ -49,7 +49,7 @@ After iterative process of model refinement, tuning, and selection on validation
 
 **Holdout**
 
-* R-squred value: 0.371
+* R-squred value: 0.396
 * RMSE: 0.707
 * MAE: 0.559
 
