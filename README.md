@@ -1,16 +1,17 @@
-# Regression project
+# Regression Project: The Roger-Ebert Bot
 
-## deliverables:
+## Contents:
+- Slides for my final [Presentation](https://github.com/crystal-ctrl/regression_project/blob/c570d9cc3db996f363387e842fb59bae50172828/Regression%20Presentation.pdf) of the project
+- Short [Written Description](https://github.com/crystal-ctrl/regression_project/blob/c570d9cc3db996f363387e842fb59bae50172828/Write%20Up.md) for my project
 
-- [Project proposal](https://github.com/crystal-ctrl/regression_project/blob/main/Project%20Proposal.md)
-- [MVP](https://github.com/crystal-ctrl/regression_project/blob/c570d9cc3db996f363387e842fb59bae50172828/MVP.md)
-- [Write Up](https://github.com/crystal-ctrl/regression_project/blob/c570d9cc3db996f363387e842fb59bae50172828/Write%20Up.md)
-- [Presentation Slides](https://github.com/crystal-ctrl/regression_project/blob/c570d9cc3db996f363387e842fb59bae50172828/Regression%20Presentation.pdf)
-- Code
-  - Data Acquisition
-    1. [Ebert Data](https://github.com/crystal-ctrl/regression_project/blob/ba6607148f5924f74489de0370b86f1fb76d835d/1A_Data%20Acquisition%20(Ebert%20Data%20Scraping%20&%20Cleaning).ipynb)
-    2. [Other Data](https://github.com/crystal-ctrl/regression_project/blob/ba6607148f5924f74489de0370b86f1fb76d835d/1B_More%20Data%20Acquisition%20and%20Cleaning.ipynb)
-  - [EDA & Feature Engineer & Selection](https://github.com/crystal-ctrl/regression_project/blob/ba6607148f5924f74489de0370b86f1fb76d835d/2_EDA%20&%20FE%20and%20Selection.ipynb)
-  - [Regression Modeling & Testing](https://github.com/crystal-ctrl/regression_project/blob/ba6607148f5924f74489de0370b86f1fb76d835d/3_Modeling_&_Testing.ipynb)
-    - [More Feature Engineering](https://github.com/crystal-ctrl/regression_project/blob/ba6607148f5924f74489de0370b86f1fb76d835d/3a_More%20FE%20and%20Selection.ipynb)
-  - [Attempt on Random Forest Regressor](https://github.com/crystal-ctrl/regression_project/blob/ba6607148f5924f74489de0370b86f1fb76d835d/4_Random%20Forest%20Regressor%20Attempt.ipynb)
+- Code: <br />
+  To reproduce my results, run the following in order: <br />
+  1. Data Acquisition
+    a. [Ebert Data](https://github.com/crystal-ctrl/regression_project/blob/ba6607148f5924f74489de0370b86f1fb76d835d/1A_Data%20Acquisition%20(Ebert%20Data%20Scraping%20&%20Cleaning).ipynb)
+    b. [Other Data](https://github.com/crystal-ctrl/regression_project/blob/ba6607148f5924f74489de0370b86f1fb76d835d/1B_More%20Data%20Acquisition%20and%20Cleaning.ipynb)
+  2. [EDA & Feature Engineer & Selection](https://github.com/crystal-ctrl/regression_project/blob/ba6607148f5924f74489de0370b86f1fb76d835d/2_EDA%20&%20FE%20and%20Selection.ipynb)
+  3. [Regression Modeling & Testing](https://github.com/crystal-ctrl/regression_project/blob/ba6607148f5924f74489de0370b86f1fb76d835d/3_Modeling_&_Testing.ipynb)
+    a. [More Feature Engineering](https://github.com/crystal-ctrl/regression_project/blob/ba6607148f5924f74489de0370b86f1fb76d835d/3a_More%20FE%20and%20Selection.ipynb)
+  4. [Attempt on Random Forest Regressor](https://github.com/crystal-ctrl/regression_project/blob/ba6607148f5924f74489de0370b86f1fb76d835d/4_Random%20Forest%20Regressor%20Attempt.ipynb)
+
+Extras: Read the [blog post](https://crystalhuang-ds.medium.com/the-roger-ebert-bot-regression-project-bae0228d6acf)
